@@ -1,6 +1,5 @@
 # Nome: Edilson Claudio Silvestrini Filho
 # R.A.: 0017/09-1
-# Sala: 4º TADS
 
 def menorf(num):
     result = list(str(num))
